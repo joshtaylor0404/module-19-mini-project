@@ -5,6 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start:dev": "",
+    "start:prod": "",
     "start": "",
     "server": "",
     "build": "",
