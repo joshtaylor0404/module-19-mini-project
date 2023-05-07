@@ -9,7 +9,7 @@
     "start": "",
     "server": "",
     "build": "",
-    "install": "",
+    "install": "cd server && npm i && cd ../client && npm i",
     "client": ""
   },
   "keywords": [],
